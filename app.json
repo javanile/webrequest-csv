@@ -1,0 +1,7 @@
+{
+  "name": "XData",
+  "description": "Extract data from any kind of Web Service and import it into Google Spreadsheet",
+  "repository": "https://github.com/javanile/xdata",
+  "logo": "https://github.com/javanile/xdata/raw/master/public/xdata.png",
+  "keywords": ["vtiger", "crm", "propan"]
+}
