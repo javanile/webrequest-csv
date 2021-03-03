@@ -1,5 +1,8 @@
 {
   "name": "javanile/xdata",
+  "scripts": {
+    "post-install-cmd": "apt install jq"
+  },
   "require-dev": {
     "heroku/heroku-buildpack-php": "*"
   }
