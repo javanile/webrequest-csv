@@ -1,2 +1,2 @@
 <?php
-echo "XDATA";
+shell_exec("ls");
