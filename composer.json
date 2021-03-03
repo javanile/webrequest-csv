@@ -1,5 +1,8 @@
 {
   "name": "javanile/xdata",
+  "require": {
+    "ext-json": "*"
+  },
   "require-dev": {
     "heroku/heroku-buildpack-php": "*"
   }
