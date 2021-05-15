@@ -9,7 +9,7 @@ XData is the best way to extract data from any kind of Web Service and import it
 ## Usage
 
 ```
-=IMPORTDATA("https://xdata.link/api.github.com/user?apikey=asdasd&/headers[XX]=ciao&!")
+=IMPORTDATA("https://webrequest.ml/javanile/xdata/github?repos")
 ```
 
 
